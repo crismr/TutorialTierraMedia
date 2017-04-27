@@ -4,7 +4,7 @@ public class HolaTierraMedia {
 		
 		public static void main(String[] args){
 			
-			String[] nombres={"Bilbo","Frodo","Aragorn"};
+			String[] nombres={"Bilbo","Frodo","Aragorn","Wilson"};
 
 		//saludos 
 			
