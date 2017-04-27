@@ -6,11 +6,12 @@ public class HolaTierraMedia {
 			
 			String[] nombres={"Bilbo","Frodo","Aragorn","Wilson"};
 
-		//saludos 
+		//saludos de los chiquillos del señor de los anillos
 			
 		for (int i=0;i<nombres.length;i++){
 			System.out.println("Hola, "+nombres[i]);
 			System.out.println("¿Como estás hoy?");
+			System.out.println("Adios");
 		}
 		}	
 	}
